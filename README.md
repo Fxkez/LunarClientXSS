@@ -39,3 +39,5 @@ By utilizing CurseForge and Modrinth someone would be able to deploy a malicious
 
 ### Disclosure
 This vulnerability was responbily disclosed to Lunar Client and has since been patched, they decided to ban me from the Discord server for disclosing this with the reason "TOS Breach", leaving me with no viable options to responbily disclose any future vulnerabilities to them. I was not expecting a bug bounty for this work I just wanted to bring light to the issue.
+
+<img src="lunarbanimage.png">
